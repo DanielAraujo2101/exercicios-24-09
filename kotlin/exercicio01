@@ -1,0 +1,11 @@
+fun main() {
+  println("====================")
+  println("MEU PRIMEIRO PROGRAMA")
+  println("====================")
+  println("Nome: Aluno Exemplo")
+  println("Turma: 3DS")
+  pritln("Escola: Alberto Gomes Veiga")
+  println("Bem-vindo ao kotlin")
+
+}
+
